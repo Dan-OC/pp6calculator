@@ -1,17 +1,14 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf210
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural
+pp6calculator - A simple command line calculator
+=====================================
+This is the README file for the pp6calculator project.
 
-\f0\fs24 \cf0 pp6calculator - A simple command line calculator\
-=====================================\
-This is the README file for the pp6calculator project.\
-\
-Authors\
-\'97\'97\'97\'97\'97\
-- Daniel O\'92Connell\
-\
-License\
-\'97\'97\'97\'97\
-pp6calculator is distributed under the terms of the Boost Software License}
+Authors
+---------
+- Daniel O'Connell
+
+License
+---------
+pp6calculator is distributed under the terms of the Boost Software License
+
+Installation
+---------
